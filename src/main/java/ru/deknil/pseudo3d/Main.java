@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
  * @Date 04.02.2024
  * @Description Main application entry point class
  * <p></p>
- * Default (Template) Project © 2024. All rights reserved.
+ * Pseudo3D © 2024. All rights reserved.
  */
 public class Main {
     /**

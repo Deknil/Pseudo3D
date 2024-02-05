@@ -24,7 +24,7 @@ An attempt to implement a pseudo 3D application based on RayCasting technology.
 * <kbd>W</kbd> - forward movement
 * <kbd>A</kbd> - rotate camera left
 * <kbd>S</kbd> - backward movement
-* <kbd>D</kbd> - rotate the camera back
+* <kbd>D</kbd> - rotate camera right
 
 ## Installation
 To run the Pseudo 3D project on your local machine, follow these steps:
